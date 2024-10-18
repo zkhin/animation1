@@ -1,0 +1,9 @@
+2024-09-29 09:53:12,638 - INFO - WebView created and presented successfully.
+2024-09-29 09:53:12,639 - INFO - iOSWebDriver initialized.
+2024-09-29 09:53:12,639 - INFO - iOSWebDriver initialized.
+2024-09-29 09:53:12,639 - INFO - User navigated to URL: https://www.example.com
+2024-09-29 09:53:12,641 - INFO - URL loaded: https://www.example.com
+2024-09-29 09:53:12,856 - INFO - Page load completed.
+2024-09-29 09:53:12,857 - INFO - Action logged: {"timestamp": 1727617992.857048, "action": "navigate", "element": {"url": "https://www.example.com"}}
+2024-09-29 09:53:12,857 - ERROR - An error occurred: 'iOSWebDriver' object has no attribute 'session_id'
+2024-09-29 09:53:12,857 - INFO - User quit the iOSWebDriver.

@@ -1,0 +1,9 @@
+[
+  {
+    "timestamp": 1727566517.1525278,
+    "action": "navigate",
+    "element": {
+      "url": "https://www.google.com"
+    }
+  }
+]
